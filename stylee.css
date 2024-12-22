@@ -1,0 +1,77 @@
+.background{
+    background: url(./rsz_homepage_2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.back-text{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.buttons-div{
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   border: none;
+   box-shadow: 0 0 10px rgba(0, 0,  0,0.5 );
+   padding: 40px;
+   gap: 20px;
+   background-color: white;
+   margin-left: 10%;
+   margin-right: 10%;
+   margin-top: -60px;
+   
+}
+.button-1{
+    width: 150px;
+    height: 50px;
+    background-color: gray;
+    border: none;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    color: white;
+}
+.button-2{
+    width: 150px;
+    height: 50px;
+    background-color: gray;
+    border: none;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    color: white;
+}
+.button-3{
+    width: 150px;
+    height: 50px;
+    background-color: gray;
+    border: none;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    color: white;
+}
+.button-4{
+    width: 150px;
+    height: 50px;
+    background-color: black;
+    border: none;
+    color: white;
+}
+.popular{
+    text-align: center;
+}
+
+
+
+
